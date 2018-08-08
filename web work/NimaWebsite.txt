@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet" href="styles.css">
+</head>
+<center>
+<h1> This is a Video-Game Review Website </h1>
+</center>
+<body>
+
+Lets begin with my favourite game series. Halo: <br><br><br> 
+
+
+<img src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2017/10/hmcc.
+jpg?itok=LK-R2zfz" width="800 height="800">
+
+<div class="halo">
+<p>After the events on the Forerunner ringworld Halo, Master Chief SPARTAN-117 returns home to Earth with the AI construct Cortana. 
+The war with the Covenant forces is still not going well, despite the destruction of an entire fleet at Halo, but the Master Chief needs a refit.
+Armed with the Mjolnir Armor Mark VI, he is on his way to a decorations ceremony with the thought-to-be-dead Sergeant Johnson, when Covenant forces emerge from the Slipstream into Earth space.
+But something is wrong: the fleet is much smaller than the one used to destroy Reach, humanity's former frontline stronghold. 
+The Master Chief and Cortana, along with Commander Miranda Keyes and the crew of In Amber Clad, must fight off the Covenant and protect Earth, 
+a battle that will take them across the galaxy to a new planet, which is disturbingly familiar...Meanwhile, the Prophets, leaders of the Covenant, are not pleased with the Elite Commander that allowed the Master Chief to destroy Halo, and he is branded a heretic. But even Heretics have their uses. He is to become the new Arbiter, a warrior for the Prophets' will, destined to die in glorious battle like all the other Arbiters before him. But deep in the Covenant, rumors are spreading about a Jiralhanae take-over. Can the Arbiter uncover this treachery in time to save the Elites?</p<
+
+</div>
+<p id="joe"> I like to play this game, 1000 hours and counting </p>
+
+</body>
+
+</html>
